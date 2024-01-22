@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>All In One Reservation</title>
+  </head>
+  <body>
+    <header>
+      <h1></h1>
+      <nav>
+        <ul>
+          <li><a href="#">About Us</a></li>
+          <li><a href="C:\Users\bsbmu\OneDrive\Desktop\PROJECT\a.html">Login</a></li>
+          <li><a href="c:\Users\bsbmu\OneDrive\Desktop\PROJECT\register.html">Register</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <section class="hero">
+      <h2>All In One Reservation</h2>
+      <p>Welcome to our Ticket Booking</p>
+      <a href="C:\Users\bsbmu\OneDrive\Desktop\a.html" class="cta-button">Click</a>
+    </section>
+
+    <footer>
+      <p>
+        This Website Based On Multicategory Ticket Booking
+      </p>
+    </footer>
+  </body>
+</html>
